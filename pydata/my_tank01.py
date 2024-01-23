@@ -1,0 +1,13 @@
+speed = 1
+cross = 10
+power = 50
+angle = 45
+# bullet_speed = 180
+bullet_speed = 1000
+# tank_model = "data/tanks_sprite/KV-1.png"
+tank_model = "data/tanks_sprite/MS-1.png"
+# tank_model = "data/tanks_sprite/SU-85B.png"
+# tank_model = "data/tanks_sprite/SU-85M.png"
+# tank_model = "data/tanks_sprite/T-26.png"
+# tank_model = "data/tanks_sprite/T-34.png"
+# tank_model = "data/tanks_sprite/T-34-85.png"

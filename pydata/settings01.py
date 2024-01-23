@@ -1,0 +1,8 @@
+WIDTH, HEIGHT = 1280, 720
+FPS = 60
+AMPLITUDE = 100
+# AMPLITUDE = 0
+FREQUENCY = 0.01
+sky = (82, 164, 246)
+ground = (115, 232, 119)
+up_ground = 9
